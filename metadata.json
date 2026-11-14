@@ -1,0 +1,8 @@
+{
+  "name": "PropPulse CRM — Native Android & Apps Script Blueprint",
+  "description": "Real estate telecaller and manager CRM featuring an interactive Material 3 Android simulator, Google Sheets + Apps Script API backend, and full Kotlin + Jetpack Compose source codebase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
